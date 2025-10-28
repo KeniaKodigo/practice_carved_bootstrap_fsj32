@@ -3,6 +3,7 @@
     height: 400px;
     /** cover **/
     background-size: cover;
+    background-repeat: no-repeat;
     background-position: center -100px;
 }
 
